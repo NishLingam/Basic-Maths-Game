@@ -1,2 +1,3 @@
 # Basic-Maths-Game
-Addition Game
+
+Built using Vanilla Javascript 
